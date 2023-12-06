@@ -1,0 +1,9 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "Refreshing React Webpack Skill",
+  "main": "index.js",
+  "author": "Mr.Worldwide",
+  "license": "MIT",
+  "devDependencies": {}
+}
