@@ -20,4 +20,7 @@ module.exports = {
     }),
     new ESLintPlugin({ extensions: ['js', 'jsx', 'ts', 'tsx'] }),
   ],
+  devServer: {
+    port: 3000,
+  },
 };
