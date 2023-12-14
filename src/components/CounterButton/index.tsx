@@ -6,7 +6,7 @@ export interface CounterButtonProps {
 const CounterButton = ({ count, setCount }: CounterButtonProps) => {
   return (
     <button role="button" onClick={() => setCount()}>
-      Count - {count}
+      Count - 9
     </button>
   );
 };
