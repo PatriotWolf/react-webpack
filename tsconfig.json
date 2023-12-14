@@ -8,6 +8,7 @@
     "baseUrl": "./app",
     "jsx": "react-jsx",
     "lib": ["dom", "es5", "es6", "es7", "es2017", "DOM.Iterable"],
+    "types": ["node", "jest", "@testing-library/jest-dom"],
     "allowSyntheticDefaultImports": true, // no errors with commonjs modules interop
     "esModuleInterop": true,
     "allowJs": true, // include js files
